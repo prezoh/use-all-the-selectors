@@ -26,15 +26,11 @@ contents, favs, facts, types {
   color: #93a1a1;
 }
 
-.dfn {
-  color: #fff;
-}
-
 html mark {
   background-color: #719e07;
 }
 
-external {
+[href^=http] {
   background-color: #2694d8;
 }
 
