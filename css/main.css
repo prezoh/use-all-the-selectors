@@ -29,3 +29,11 @@ contents, favs, facts, types {
 .dfn {
   color: #fff;
 }
+
+mark {
+  background-color: #719e07;
+}
+
+external {
+  background-color: #2694d8;
+}
