@@ -18,10 +18,14 @@ nav ul {
   background-color: #eee8d5;
 }
 
-.wrapper div {
-  background-color: #b58900;
+.dfn:first-child {
+  background-color: #eee8d5;
 }
 
 contents, favs, facts, types {
   color: #93a1a1;
+}
+
+.dfn {
+  color: #fff;
 }
