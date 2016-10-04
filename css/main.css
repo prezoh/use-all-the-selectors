@@ -18,26 +18,31 @@ nav ul {
   background-color: #eee8d5;
 }
 
+.dfn {
+  background-color:#b58900;
+}
+
+.dfn p + strong {
+  color: #fff;
+}
+
 .dfn:first-child {
   background-color: #eee8d5;
+
 }
 
 contents, favs, facts, types {
   color: #93a1a1;
 }
 
-html mark {
+mark {
   background-color: #719e07;
 }
 
-[href^=http] {
-  background-color: #2694d8;
-}
-
-ol li:first-child {
+.types ol li:first-child {
   color: #719e47;
 }
 
-ol li:last-child {
+.types li:last-child {
   color: #2aa198;
 }
